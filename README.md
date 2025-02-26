@@ -145,7 +145,7 @@ Meu objetivo é compartilhar meu conhecimento e experiências com o mundo, e em 
 
 ### 📊 Estatísticas
 
-<p>
+<p style="display: flex;">
  <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=webster-rafael&show_icons=true&theme=dark"
@@ -155,13 +155,13 @@ Meu objetivo é compartilhar meu conhecimento e experiências com o mundo, e em 
     srcset="https://github-readme-stats.vercel.app/api?username=webster-rafael&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=webster-rafael&show_icons=true" />
+  <img height="180"  src="https://github-readme-stats.vercel.app/api?username=webster-rafael&show_icons=true" />
      
 </picture>
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="180"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=webster-rafael&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
