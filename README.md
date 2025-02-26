@@ -11,14 +11,14 @@ Meu objetivo é compartilhar meu conhecimento e experiências com o mundo, e em 
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC4Tkag1Xj5ijTSMtRu_zpig?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
     <a href="https://www.youtube.com/@webster-dev">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC4Tkag1Xj5ijTSMtRu_zpig?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
     <a href="https://github.com/webster-rafael?tab=repositories&sort=stargazers">
@@ -146,19 +146,22 @@ Meu objetivo é compartilhar meu conhecimento e experiências com o mundo, e em 
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=webster-rafael&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+ <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=webster-rafael&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
   />
-
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=webster-rafael&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=webster-rafael&show_icons=true" />
+     
+</picture>
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=webster-rafael&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=webster-rafael&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
