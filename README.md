@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Webster Rafael
+# 🧑🏻‍💻 Webster Rafael
 
 **`Desenvolvedor FullStack`**
 
-Tenho 26 anos e sou de Campo Grande, MS. Atualmente, estou cursando Engenharia de Software na Uninter. Desde os 12 anos, quando ganhei meu primeiro computador, me apaixonei por tecnologia. Essa paixão cresceu com o tempo, me tornando um dos meus maiores interesses e objetivos de vida.
+Olá, Me chamo Webster, tenho 26 anos e sou de Campo Grande, MS. Atualmente, estou cursando Engenharia de Software na Uninter. Desde os 12 anos, quando ganhei meu primeiro computador, me apaixonei por tecnologia. Essa paixão cresceu com o tempo, me tornando um dos meus maiores interesses e objetivos de vida.
 
 Meu objetivo é compartilhar meu conhecimento e experiências com o mundo, e em breve, começarei a criar conteúdo sobre desenvolvimento de software, dicas de tecnologia e muito mais no meu perfil no Instagram [Webster Rafael](https://www.instagram.com/webster.dev/) e no meu canal no Youtube [Webster Dev](https://www.youtube.com/@webster-dev?sub_confirmation=1)".
 
@@ -25,14 +25,14 @@ Meu objetivo é compartilhar meu conhecimento e experiências com o mundo, e em 
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/webster-rafael?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/webster-rafael?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/webster-rafael?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -116,11 +116,20 @@ Meu objetivo é compartilhar meu conhecimento e experiências com o mundo, e em 
 />
 <img 
     align="left" 
+    alt="C#" 
+    title="C#"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
+<img 
+    align="left" 
     alt="NodeJs" 
     title="NodeJs"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/node/node-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+          
 />
 <img 
     align="left" 
@@ -128,7 +137,7 @@ Meu objetivo é compartilhar meu conhecimento e experiências com o mundo, e em 
     title="Postgres"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgres/postgres-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
 />
 
 <br/>
