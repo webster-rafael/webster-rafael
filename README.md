@@ -133,6 +133,15 @@ Meu objetivo é compartilhar meu conhecimento e experiências com o mundo, e em 
 />
 <img 
     align="left" 
+    alt="Prisma ORM" 
+    title="Prisma"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg](https://obuldanrptloktxcffvn.supabase.co/storage/v1/object/public/images/integrations/prisma/prisma-icon.png" />
+          
+/>
+<img 
+    align="left" 
     alt="Postgres" 
     title="Postgres"
     width="30px" 
