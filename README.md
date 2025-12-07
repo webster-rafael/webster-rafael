@@ -148,7 +148,8 @@ Meu objetivo é compartilhar meu conhecimento e experiências com o mundo, e em 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
 />
-
+<br />
+<br />
 
 ### 📊 Estatísticas
 
