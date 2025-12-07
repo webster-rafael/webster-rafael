@@ -137,7 +137,7 @@ Meu objetivo é compartilhar meu conhecimento e experiências com o mundo, e em 
     title="Prisma"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg](https://obuldanrptloktxcffvn.supabase.co/storage/v1/object/public/images/integrations/prisma/prisma-icon.png" />
+    src="https://supabase.com/_next/image?url=https%3A%2F%2Fobuldanrptloktxcffvn.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fimages%2Fintegrations%2Fprisma%2Fprisma-icon.png&w=64&q=75" />
           
 />
 <img 
