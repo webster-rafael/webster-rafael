@@ -4,7 +4,7 @@
 
 Olá, Me chamo Webster, tenho 26 anos e sou de Campo Grande, MS. Atualmente, estou cursando Engenharia de Software na Uninter. Desde os 12 anos, quando ganhei meu primeiro computador, me apaixonei por tecnologia. Essa paixão cresceu com o tempo, me tornando um dos meus maiores interesses e objetivos de vida.
 
-Meu objetivo é compartilhar meu conhecimento e experiências com o mundo, e em breve, começarei a criar conteúdo sobre desenvolvimento de software, dicas de tecnologia e muito mais no meu perfil no Instagram [Webster Rafael](https://www.instagram.com/webster.dev/) e no meu canal no Youtube [Webster Dev](https://www.youtube.com/@webster-dev?sub_confirmation=1)".
+Meu objetivo é compartilhar meu conhecimento e experiências com o mundo, e em breve, começarei a criar conteúdo sobre desenvolvimento de software, dicas de tecnologia e muito mais no meu perfil no Instagram [Webster Rafael](https://www.instagram.com/webster.dev/).
 
 <p align="left">
     <a href="https://www.youtube.com/@webster-dev?sub_confirmation=1">
